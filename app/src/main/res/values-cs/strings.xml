@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Hotel</string>
+    <string name="action_settings">Nastavení</string>
+
+    <!-- Hlavní menu -->
+    <string name="button_registration">Rezervace</string>
+
+    <!-- Služby -->
+    <string name="services_headline">Služby</string>
+
+    <!-- O hotelu -->
+    <string name="about_headline">O hotelu</string>
+
+    <!-- Popisky registračního formuláře -->
+    <string name="registration_title">Registrační formulář hotelu</string>
+    <string name="registration_name">Jméno a příjmení</string>
+    <string name="registration_address">Adresa</string>
+    <string name="registration_telephone">Telefon</string>
+    <string name="registration_email">E-mail</string>
+    <string name="registration_breakfast">Snídaně</string>
+    <string name="registration_room">Pokoj:</string>
+    <string name="registration_room_one">jednolůžkový</string>
+    <string name="registration_room_two">dvoulůžkový</string>
+    <string name="registration_room_three">třílůžkový</string>
+    <string name="registration_nonsmoker">Nekuřák</string>
+    <string name="registration_smoker">Kuřák</string>
+    <string name="registration_button_send">Odeslat</string>
+    <string name="registration_button_cancel">Zrušit</string>
+    <string name="registration_days_prompt">Zvolte délku ubytování</string>
+    <string-array name="registration_days">
+        <item>1 den</item>
+        <item>2 dny</item>
+        <item>3 dny</item>
+        <item>4 dny</item>
+        <item>5 dní</item>
+        <item>6 dní</item>
+        <item>7 dní</item>
+        <item>Víkend</item>
+        <item>1 měsíc</item>
+        <item>2 měsíce</item>
+        <item>3 měsíce</item>
+    </string-array>
+</resources>

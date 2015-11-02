@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Hotel</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- Main menu -->
+    <string name="button_registration">Registration</string>
+
+    <!-- About -->
+    <string name="about_headline">About</string>
+
+    <!-- Services -->
+    <string name="services_headline">Services</string>
+
+    <!-- Registration form view labels -->
+    <string name="registration_title">Hotel registration form</string>
+    <string name="registration_name">Full name</string>
+    <string name="registration_address">Address</string>
+    <string name="registration_telephone">Telephone</string>
+    <string name="registration_email">E-mail</string>
+    <string name="registration_breakfast">Breakfast</string>
+    <string name="registration_room">Number of beds:</string>
+    <string name="registration_room_one">One</string>
+    <string name="registration_room_two">Two</string>
+    <string name="registration_room_three">Three</string>
+    <string name="registration_nonsmoker">Non-smoker</string>
+    <string name="registration_smoker">Smoker</string>
+    <string name="registration_button_send">Send</string>
+    <string name="registration_button_cancel">Cancel</string>
+    <string name="registration_days_prompt">Choose accommodation length</string>
+    <string-array name="registration_days">
+        <item>1 day</item>
+        <item>2 days</item>
+        <item>3 days</item>
+        <item>4 days</item>
+        <item>5 days</item>
+        <item>6 days</item>
+        <item>7 days</item>
+        <item>Weekend</item>
+        <item>1 month</item>
+        <item>2 months</item>
+        <item>3 months</item>
+    </string-array>
+    <string name="title_activity_reservation">Reservation</string>
+</resources>
